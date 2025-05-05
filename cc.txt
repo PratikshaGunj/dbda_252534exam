@@ -1,0 +1,2 @@
+cloud has three type paas saas iaas
+it is use for storage
